@@ -1,6 +1,6 @@
 ### Hello, world!!
 
-## 使用ツール一覧
+## Skills
 ![](https://skillicons.dev/icons?i=anaconda,linux,pycharm,py,ubuntu,vscode)
 
 <!--
