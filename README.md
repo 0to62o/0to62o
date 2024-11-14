@@ -1,7 +1,7 @@
 ### Hello, world!!
 
-## Skills
-![](https://skillicons.dev/icons?i=anaconda,linux,pycharm,py,ubuntu,vscode)
+## Proficient tools
+![](https://skillicons.dev/icons?i=linux,ubuntu,py,anaconda,vscode,pycharm)
 
 <!--
 **0to62o/0to62o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
